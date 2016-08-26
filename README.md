@@ -6,7 +6,8 @@ The present participle as part of the continuous form of a verb (examples):
 - I am Working
 - He was Walking
 
-----
+_
+====
 
 ## THE PRESENT PARTICIPLE AFTER VERBS OF MOVEMENT & POSITION ##
 
@@ -28,7 +29,7 @@ _
 
 ### THE PRESENT PARTICIPLE AS AN ADJECTIVE
 
-The team leader have to resolve a Pluzze problem and the rest of slaves have to work by rol like **IP**.
+The team leader have to resolve the Pluzze problem.
   - It was an amazing film.
   - Dark billowing clouds often precede a storm.
 
@@ -64,8 +65,7 @@ _
 - Being poor, he didn't spend much on clothes.
 - Knowing that his mother was coming, he cleaned the flat.
 
-_
-====
+----
 
 ### Some Handy Links
 
